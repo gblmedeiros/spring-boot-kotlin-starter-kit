@@ -1,6 +1,7 @@
 # Spring Boot Kotlin Starter Kit
 
 This is a source code for building REST applications with Spring Boot and Kotlin.
+Just clone it and start to build your app.
 
 **See also https://spring.io/guides/tutorials/spring-boot-kotlin/**
 
